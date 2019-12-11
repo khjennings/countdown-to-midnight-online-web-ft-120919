@@ -15,4 +15,4 @@ def countdown_with_sleep
   number -= 1
   sleep(1.0)
 end
-  
+end
